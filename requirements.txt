@@ -1,4 +1,4 @@
-Flask==2.1.2
 PyPDF2==1.26.0
 reportlab
-flask-cors
+Flask==3.0.3
+flask-cors==5.0.1
